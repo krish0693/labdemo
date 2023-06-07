@@ -1,0 +1,9 @@
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/controller/UserController.java
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/model/User.java
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/repository/UserRepository.java
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/CustomUserDetails.java
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/service/CustomUserDetailsService.java
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/SpringBootDataJpaApplication.java
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/repository/SubscriptionRepository.java
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/WebSecurityConfiguration.java
+/Users/sivakrishna/Downloads/spring-boot-data-jpa-mysql-master/src/main/java/com/spring/datajpa/model/Subscriptions.java

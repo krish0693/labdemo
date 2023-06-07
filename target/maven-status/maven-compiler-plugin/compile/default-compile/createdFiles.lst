@@ -1,0 +1,9 @@
+com/spring/datajpa/controller/UserController.class
+com/spring/datajpa/SpringBootDataJpaApplication.class
+com/spring/datajpa/model/User.class
+com/spring/datajpa/model/Subscriptions.class
+com/spring/datajpa/CustomUserDetails.class
+com/spring/datajpa/WebSecurityConfiguration.class
+com/spring/datajpa/repository/SubscriptionRepository.class
+com/spring/datajpa/repository/UserRepository.class
+com/spring/datajpa/service/CustomUserDetailsService.class
